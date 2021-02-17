@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+	<channel>
+		<!--Elementos no variables-->
+		<title>Canal de chistes con audio</title>
+		<link>ChisteSYAnectotasalucinates.html</link>
+		<description>Varios chistes narrados por mi</description>
+		<!--articulos-->
+		<item>
+			<title>La Rana</title>
+			<link>https://www.periodicoelgancho.com/chistes/chistes-largos/</link>
+			<description>Este chiste trata de unos animales que van hacer una fiesta.</description>
+		</item>
+		<item>
+			<title>El Champú</title>
+			<link>https://www.periodicoelgancho.com/chistes/chistes-largos/</link>
+			<description>Este chiste trata de dos amigos que dice que el champu lo hace mas gordo.</description>
+		</item>
+		<item>
+			<title>El Coche</title>
+			<link>https://www.periodicoelgancho.com/chistes/chistes-largos/</link>
+			<description>Este chiste trata de un conductor y un policia, en el que el policia para al conductor por pasarse un semaforo.</description>
+		</item>
+		
+	</channel>
+</rss>

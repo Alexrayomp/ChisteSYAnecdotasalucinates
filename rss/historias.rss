@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+	<channel>
+		<!--Elementos no variables-->
+		<title>Canal sobre historias y chistes</title>
+		<link>ChisteSYAnectotasalucinates</link>
+		<description>Noticias en referencia a unas historias y algunos chistes</description>
+		<!--articulos-->
+		<item>
+			<title>Motivo justificante en la universidad</title>
+			<link>http://www3.uah.es/vivatacademia/anteriores/n57/historias.htm</link>
+			<description>Una profesora universitaria estaba acabando de dar las últimas informaciones a sus alumnos sobre el examen final que harían al día siguiente. Terminó diciendo que no habría excusas para quien no acudiese al examen, a menos que se tratase de un accidente grave, enfermedad o muerte de algún pariente próximo.
+
+				Un gracioso que estaba sentado al fondo de la clase preguntó con ese típico aire de cinismo:
+
+				- De entre esos motivos justificantes... ¿podemos incluir el de extremo cansancio por actividad sexual?
+
+				La clase explotó en risas, mientras que la profesora aguardaba pacientemente a que todos se callasen. Entonces ella miró al payaso y le respondió:
+
+				- Eso no es un motivo justificativo. Como la prueba será tipo test, usted puede venir y escribir con la otra mano... o puede usted contestar de pie, si es que no puede sentarse..</description>
+		</item>
+		<item>
+			<title>Un viaje a Egipto</title>
+			<link>https://www.callejeandoporelplaneta.com/las-5-anecdotas-mas-graciosas-de-mis-viajes-ii-parte/</link>
+			<description>Empezamos lo que en teoría tenía que ser un “paseo tranquilo” por la ciudad, nuestro carro iba como Fernando Alonso con su Ferrari, adelantando a todo quisqui que se ponía por delante, parecía que se iba a descuajeringar en cualquier momento, en seco llegamos a la altura de otro carro, este carromáticamente hablando debía de ser una especie de Louis Hamilton Egipcio porque nuestro conductor no intentó ni adelantarle, parecía que la tranquilidad volvía al coche, de repente aparece un taxi adelantando por la izquierda y ZAAAAAASSSSSSS!!!!!! Toda la mierda de un charco que había en el suelo (moñigas de caballo incluidas) al igual que un tsunami nos salpicó y fue absorbido por nuestros ropajes….qué asco!!!!!!!!!.</description>
+		</item>
+		<item>
+			<title>Mercedes, nombre de mujer</title>
+			<link>https://www.emprendedores.es/gestion/anecdotas-divertidas-leyendas-urbanas-mundo-empresarial/</link>
+			<description>¿Un coche con el nombre de tu hija? Ya en 1880 Gottlieb Daimler y Carl Benz habían creado una fábrica de motores, convencidos del futuro de la propulsión por gasolina. A comienzos de siglo pasado, Daimler y Benz recibieron el encargo de Emil Jellinek, un empresario alemán afincado en Niza, de fabricar un nuevo concepto de automóvil, más ligero, más bajo, más ancho y, sobre todo, más potente (35 caballos). Jellinek se comprometió a adquirir 36 unidades de aquel nuevo coche, con dos condiciones: la primera, una concesión exclusiva para venderlos en el imperio austro-húngaro, Francia, Bélgica y EE UU. Y la segunda, la principal, que el nuevo automóvil se llamara Mercedes, como su hija. El Mercedes tuvo una aparición triunfal en 1901, en la semana de carreras en ruta que cada primavera se celebraba en Niza.</description>
+		</item>
+		
+	</channel>
+</rss>
