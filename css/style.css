@@ -123,7 +123,7 @@ a.blue:hover { color:#0022FF !important;}
 #main .box .top{width:623px; background:url(images/box-top.gif) no-repeat; }
 #main .box .bottom{width:612px; background:url(images/box-bottom.gif) no-repeat 0 bottom; padding-top:12px; padding-left:11px; padding-bottom:10px}
 
-#main .simple {width:609px; background:#fff; border:solid 1px #0022FF; padding-top:12px; padding-left:12px; padding-bottom:10px; margin-bottom:6px}
+#main .simple {width:609px; background:#fff; border:solid 1px #9b9b9b; padding-top:12px; padding-left:12px; padding-bottom:10px; margin-bottom:6px}
 #main .simple .holder{width:143px; float: left; display: inline; margin-right:9px}
 #main .simple a{ color:#0f89df; text-decoration: none;}
 #main .simple a:hover{ color:#0022FF; }
@@ -168,4 +168,4 @@ a.small{font-size: 10px; color:#6b6b6b; text-transform: uppercase; margin-right:
 
 #footer{background:#fff; border:solid 1px #dcdcdc; height:70px; font-size: 10px; color:#515151; text-transform: uppercase; font-family: "trebuchet ms", sans-serif; text-align: right;}
 #footer .right-area{float: right; display: inline; padding-top:25px; padding-right:17px}
-#footer a.sm-logo{background:url(images/fashion.gif); width:155px; height:34px; float: left; text-indent: -4000px; line-height: 0; font-size: 0; margin:16px 0 0 20px; text-align: left;}
+#footer a.sm-logo{background:url(images/hola.png); width:155px; height:34px; float: left; text-indent: -4000px; line-height: 0; font-size: 0; margin:16px 0 0 20px; text-align: left;}
